@@ -1,0 +1,1 @@
+Implementation of Dijkstra's Algorithm using different data structures such as a priority queue, a custom index priority queue and a set in c++. These offer different utility and as such have different time complexity advantages and disadvantages. This was project was made during my data structures and algorithms class.
